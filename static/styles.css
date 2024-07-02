@@ -1,0 +1,30 @@
+body {
+    background-color: #ffe6f2; /* Light pink background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    color: #ff66b3; /* Darker pink for header text */
+    text-align: center;
+}
+
+.intro, .love-message {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    color: #666;
+    margin-top: 20px;
+}
